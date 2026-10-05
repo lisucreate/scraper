@@ -5,7 +5,7 @@ Source: [Himalayas](https://himalayas.app) remote jobs open to Canada.
 
 | | Title | Company | Location | Pay | Posted |
 |---|---|---|---|---|---|
-|  | [Stability & Documentation Manager - R&D](https://himalayas.app/companies/gruns/jobs/stability-documentation-manager-r-d) | Grüns | Worldwide (remote) | USD 115,000-130,000 annual | 2026-10-03 |
+|  | [Technical Writer Expression of Interest Form](https://himalayas.app/companies/gitlab-com/jobs/technical-writer-expression-of-interest-form) | GitLab | Worldwide (remote) | - | 2026-10-05 |
 |  | [Contract Senior Content Designer](https://himalayas.app/companies/fueled/jobs/contract-senior-content-designer) | Fueled | Canada, Mexico, United States (remote) | - | 2026-10-02 |
 |  | [TECHNICAL WRITER](https://himalayas.app/companies/vsolvit/jobs/technical-writer) | VSolvit | Canada, United States (remote) | USD 65,000-95,000 annual | 2026-09-30 |
 |  | [Senior Technical SR&ED Writer (Software Focus)](https://himalayas.app/companies/zero-to-one-strategic/jobs/senior-technical-sr-ed-writer-software-focus) | Zero To One Strategic | Canada (remote) | CAD 110,000-130,000 annual | 2026-09-22 |
