@@ -1,10 +1,11 @@
 # Latest job matches
 
-11 current matches. Marked NEW when first alerted in the most recent run.
+12 current matches. Marked NEW when first alerted in the most recent run.
 Source: [Himalayas](https://himalayas.app) remote jobs open to Canada.
 
 | | Title | Company | Location | Pay | Posted |
 |---|---|---|---|---|---|
+|  | [Documentation Specialist](https://himalayas.app/companies/bromcom-computers-plc/jobs/documentation-specialist) | Bromcom Computers Plc | Worldwide (remote) | - | 2026-10-08 |
 |  | [Content Strategist (Freelance)](https://himalayas.app/companies/contently/jobs/content-strategist-freelance) | Contently | Worldwide (remote) | - | 2026-10-08 |
 |  | [Technical Writer/ Editor - Remote , Contract](https://himalayas.app/companies/xperteez-technology/jobs/technical-writer-editor-remote-contract) | Xperteez Technology | Canada, United Kingdom, United States (remote) | - | 2026-10-06 |
 |  | [Technical Writer Expression of Interest Form](https://himalayas.app/companies/gitlab-com/jobs/technical-writer-expression-of-interest-form) | GitLab | Worldwide (remote) | - | 2026-10-05 |
