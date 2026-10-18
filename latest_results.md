@@ -1,10 +1,11 @@
 # Latest job matches
 
-13 current matches. Marked NEW when first alerted in the most recent run.
+14 current matches. Marked NEW when first alerted in the most recent run.
 Source: [Himalayas](https://himalayas.app) remote jobs open to Canada.
 
 | | Title | Company | Location | Pay | Posted |
 |---|---|---|---|---|---|
+|  | [Sr. Technical Editor](https://himalayas.app/companies/crowdstrike/jobs/sr-technical-editor) | Crowdstrike | Canada (remote) | CAD 90,000-135,000 annual | 2026-10-18 |
 |  | [Content Strategist (Freelance)](https://himalayas.app/companies/contently/jobs/content-strategist-freelance) | Contently | Worldwide (remote) | - | 2026-10-17 |
 |  | [Director of AI Content Systems, Marketing](https://himalayas.app/companies/time-doctor/jobs/director-of-ai-content-systems-marketing) | Time Doctor | Canada, United States (remote) | - | 2026-10-16 |
 |  | [Principal Technical Writer](https://himalayas.app/companies/clario/jobs/principal-technical-writer) | Clario | Canada (remote) | - | 2026-10-16 |
