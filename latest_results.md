@@ -1,10 +1,11 @@
 # Latest job matches
 
-13 current matches. Marked NEW when first alerted in the most recent run.
+14 current matches. Marked NEW when first alerted in the most recent run.
 Source: [Himalayas](https://himalayas.app) remote jobs open to Canada.
 
 | | Title | Company | Location | Pay | Posted |
 |---|---|---|---|---|---|
+|  | [Associate Director, Content Strategy](https://himalayas.app/companies/verndale/jobs/associate-director-content-strategy?utm_source=api) | Verndale | Canada (remote) | - | 2026-10-25 |
 |  | [Sr. Technical Editor (Remote, CAN)](https://himalayas.app/companies/crowdstrike/jobs/sr-technical-editor-remote-can?utm_source=api) | Crowdstrike | Canada (remote) | CAD 90,000-135,000 annual | 2026-10-19 |
 |  | [Sr. Technical Editor](https://himalayas.app/companies/crowdstrike/jobs/sr-technical-editor?utm_source=api) | Crowdstrike | Canada (remote) | CAD 90,000-135,000 annual | 2026-10-18 |
 |  | [Senior Information Architect /Data Engineer (Remote  Initially)](https://himalayas.app/companies/my-recruiter-inc/jobs/senior-information-architect-data-engineer-remote-initially?utm_source=api) | My Recruiter Inc. | Canada (remote) | - | 2026-10-18 |
