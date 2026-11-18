@@ -1,10 +1,11 @@
 # Latest job matches
 
-16 current matches. Marked NEW when first alerted in the most recent run.
+17 current matches. Marked NEW when first alerted in the most recent run.
 Source: [Himalayas](https://himalayas.app) remote jobs open to Canada.
 
 | | Title | Company | Location | Pay | Posted |
 |---|---|---|---|---|---|
+|  | [Senior Principal Content Strategist, Autodesk Assistant](https://himalayas.app/companies/autodesk/jobs/senior-principal-content-strategist-autodesk-assistant?utm_source=api) | Autodesk | Canada, United States (remote) | USD 157,000-281,930 annual | 2026-11-18 |
 |  | [Bilingual Content Designer](https://himalayas.app/companies/platotech/jobs/bilingual-content-designer?utm_source=api) | PLATO | Canada (remote) | - | 2026-11-14 |
 |  | [Co-Founder & CEO - AI Content Intelligence for Professional Services](https://himalayas.app/companies/futuresight/jobs/co-founder-ceo-ai-content-intelligence-for-professional-services-4116413184?utm_source=api) | FutureSight | Canada (remote) | - | 2026-11-06 |
 |  | [Principal Technical Writer](https://himalayas.app/companies/clario/jobs/principal-technical-writer?utm_source=api) | Clario | Canada, United States (remote) | - | 2026-11-01 |
