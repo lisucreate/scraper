@@ -1,10 +1,11 @@
 # Latest job matches
 
-17 current matches. Marked NEW when first alerted in the most recent run.
+18 current matches. Marked NEW when first alerted in the most recent run.
 Source: [Himalayas](https://himalayas.app) remote jobs open to Canada.
 
 | | Title | Company | Location | Pay | Posted |
 |---|---|---|---|---|---|
+|  | [Knowledge Management and Learning Advisor (E-Volunteer)](https://himalayas.app/companies/cuso-international/jobs/knowledge-management-and-learning-advisor-e-volunteer?utm_source=api) | Cuso International | Canada (remote) | - | 2026-11-20 |
 |  | [Staff Technical Writer](https://himalayas.app/companies/gitlab-com/jobs/staff-technical-writer?utm_source=api) | GitLab | Canada, Poland, United Kingdom, United States (remote) | USD 139,200-235,200 annual | 2026-11-19 |
 |  | [Director of AI Content Systems, Marketing](https://himalayas.app/companies/time-doctor/jobs/director-of-ai-content-systems-marketing?utm_source=api) | Time Doctor | Canada, United States (remote) | - | 2026-11-19 |
 |  | [Technical Writer/ Editor - Remote , Contract](https://himalayas.app/companies/xperteez-technology/jobs/technical-writer-editor-remote-contract?utm_source=api) | Xperteez Technology | Canada, United Kingdom, United States (remote) | - | 2026-11-19 |
